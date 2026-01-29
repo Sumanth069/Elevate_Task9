@@ -128,3 +128,11 @@ Place creditcard.csv in MyDrive
 Run the notebook cells sequentially
 
 Train the model and save .pkl file
+
+# Output
+
+<img width="1168" height="491" alt="Image" src="https://github.com/user-attachments/assets/3e15adb9-a22a-48c4-8f8b-c51126afe656" />
+
+<img width="518" height="258" alt="Image" src="https://github.com/user-attachments/assets/0126a056-1588-47ad-8e9b-9cbf0493bf17" />
+
+<img width="1095" height="715" alt="Image" src="https://github.com/user-attachments/assets/5c271900-dcac-4b9d-943b-eb404221a9e8" />
